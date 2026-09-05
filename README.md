@@ -30,8 +30,10 @@
 
 ### 📌 Projetos em destaque
 
-- 🩺 **[Psicóloga Sylvana Botelho](https://github.com/ramonfbmiranda/Psicologa-Sylvana-Botelho)** — landing page profissional para apresentação de perfil de cliente.
-- 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — fanpage para prática de front-end usando HTML, CSS e JS.
+- 🩺 **[Psicóloga Sylvana Botelho](https://github.com/ramonfbmiranda/Psicologa-Sylvana-Botelho)** — Landing page profissional para apresentação de perfil de cliente.
+- 🛒 **[Loja Virtual](https://github.com/ramonfbmiranda/LojaVirtual)** — Loja Virtual com guia pra solução de problemas com produtos.
+- 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — Fanpage para prática de front-end usando HTML, CSS e JS.
+- 📝 **[Jogo de formar frase](https://github.com/ramonfbmiranda/complete-the-phrase-game)** — Jogo simples usando Java básico em que o jogador forma uma frase utilizando métodos de input, output, loops e funções.
 
 ---
 
