@@ -1,7 +1,7 @@
 <h1 align="center"> Ramon Miranda👋</h1>
 
 <p align="center">
-  Estudante de Ciência e Tecnologia (UFRN) | Front-end em formação | Aberto a estágios e vagas júnior em TI.
+  Estudante de Ciência e Tecnologia (UFRN) | Fullstack em formação | Estagiário em Desenvolvimento Web.
 </p>
 
 ---
@@ -9,11 +9,11 @@
 ### 🚀 Sobre mim
 
 - 🎓 2º período de **Ciência e Tecnologia** na UFRN
+- 🧑🏻‍💻 Estagiário como Desenvolvedor na empresa Pragma Soft (Desenvolvimento Web)
 - 💻 Estudando desenvolvimento **fullstack** pela formação da Rocketseat
 - 🔧 Experiência com **suporte técnico (HelpDesk)** na Teleperformance
 - 🌱 Aprendendo atualmente: **React, PostgreSQL e Docker**
 - 🗣️ Inglês avançado
-- 📫 Aberto a oportunidades de **estágio em desenvolvimento**
 
 ---
 
@@ -30,6 +30,7 @@
 
 ### 📌 Projetos em destaque
 
+- 📚 **[Biblioteca Virtual](https://github.com/ramonfbmiranda/biblioteca-virtual)** — Projeto de biblioteca virtual com inovações criativas, utilizando React com pretensão de Back-End no futuro.
 - 🩺 **[Psicóloga Sylvana Botelho](https://github.com/ramonfbmiranda/Psicologa-Sylvana-Botelho)** — Landing page profissional para apresentação de perfil de cliente.
 - 🛒 **[Loja Virtual](https://github.com/ramonfbmiranda/LojaVirtual)** — Loja Virtual com guia pra solução de problemas com produtos.
 - 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — Fanpage para prática de front-end usando HTML, CSS e JS.
