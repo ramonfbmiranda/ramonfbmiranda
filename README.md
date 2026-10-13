@@ -30,7 +30,7 @@
 
 ### 📌 Projetos em destaque
 
-- 📚 **[Biblioteca Virtual](https://github.com/ramonfbmiranda/biblioteca-virtual)** — Projeto de biblioteca virtual com inovações criativas, utilizando React com pretensão de Back-End no futuro.
+- 📚 **[Biblioteca Lumora](https://github.com/ramonfbmiranda/biblioteca-lumoral)** — Projeto de biblioteca virtual com inovações criativas, utilizando React, com previsão de implementação de Back-End.
 - 🩺 **[Psicóloga Sylvana Botelho](https://github.com/ramonfbmiranda/Psicologa-Sylvana-Botelho)** — Landing page profissional para apresentação de perfil de cliente.
 - 🛒 **[Loja Virtual](https://github.com/ramonfbmiranda/LojaVirtual)** — Loja Virtual com guia pra solução de problemas com produtos.
 - 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — Fanpage para prática de front-end usando HTML, CSS e JS.
