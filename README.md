@@ -22,6 +22,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,11 +31,11 @@
 
 ### 📌 Projetos em destaque
 
-- 📚 **[Biblioteca Lumora](https://github.com/ramonfbmiranda/biblioteca-lumoral)** — Projeto de biblioteca virtual com inovações criativas, utilizando React, com previsão de implementação de Back-End.
+- 📚 **[Biblioteca Lumora](https://github.com/ramonfbmiranda/biblioteca-lumora)** — Projeto de biblioteca virtual com inovações criativas, utilizando React, com previsão de implementação de Back-End.
 - 🩺 **[Psicóloga Sylvana Botelho](https://github.com/ramonfbmiranda/Psicologa-Sylvana-Botelho)** — Landing page profissional para apresentação de perfil de cliente.
 - 🛒 **[Loja Virtual](https://github.com/ramonfbmiranda/LojaVirtual)** — Loja Virtual com guia pra solução de problemas com produtos.
-- 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — Fanpage para prática de front-end usando HTML, CSS e JS.
 - 📝 **[Jogo de formar frase](https://github.com/ramonfbmiranda/complete-the-phrase-game)** — Jogo simples usando Java básico em que o jogador forma uma frase utilizando métodos de input, output, loops e funções.
+- 🎨 **[Cyclops Fanpage Frontend](https://github.com/ramonfbmiranda/cyclops-fanpage-frontend)** — Fanpage para prática de front-end usando HTML, CSS e JS.
 
 ---
 
